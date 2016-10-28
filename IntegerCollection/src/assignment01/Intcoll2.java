@@ -1,5 +1,4 @@
 package assignment01;
-import java.util.*;
 
 public class Intcoll2 {
 	int[] c;
